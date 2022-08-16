@@ -1,0 +1,258 @@
+.background .img{
+position: absolute;
+    background-repeat: no-repeat;
+
+}
+.logo{
+    background: white;
+    margin-top: -613px;
+    margin-left: 83px;
+    margin-right: 0px;
+    padding: 18px;
+    border-radius: 6px
+}
+.navbar{
+    position: absolute;
+}
+.nav1{
+    margin-top: -102px;
+    margin-left: 244px;
+    font-family: monospace;
+}
+.nav3{
+    position: absolute;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: -24px;
+    grid-column-gap: 8px;
+    margin-left: 1048px;
+}
+.facebook .fa-facebook-f :hover{
+color: blue;
+}
+.boxtitle{
+    margin-left: 15px;
+    margin-top: 14px;
+}
+#tag{
+    margin-top: -13px;
+    font-size: small;
+}
+.nav2{
+    margin-left: 482px;
+    margin-right: 313px;
+    margin-top: -47px;
+    font-size: small;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+
+    grid-column-gap: 14px;
+    font-weight: bolder;
+}
+.nav2 a{
+    text-decoration: none;
+    color: black;
+}
+.nav2  :hover{
+    color: #39a4ff;
+}
+
+.twitter :hover{
+    color: #39a4ff;
+}
+.facebook :hover{
+color: blue;
+}
+.google :hover{
+color: rgb(250, 70, 70);
+}
+.pinterest :hover{
+    color: rgb(248, 7, 7);
+}
+.nav3 .fa-brands{
+    background: white;
+    border-radius: 92%;
+    border: 1px solid black;
+    padding: 5px;
+}
+.box{
+    left: 65%;
+    top: 9%;
+    position: absolute;
+    margin-top: 132px;
+    background: white;
+    padding: 13px;
+    padding-bottom: 66px;
+    border-radius: 8px;
+    width: 316px;
+}
+
+.title b{
+ margin-bottom: 21px;
+ font-family: system-ui;
+    font-size: xx-large;
+    font-weight: 100;
+     
+}
+.title2 a{
+    font-family: system-ui;
+    font-size: small;
+    font-weight: 100;
+     
+}
+.title2{
+    margin-top: 18px;
+}
+.tickets{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-around;
+    margin-top: 34px; 
+}
+.tickets .a{
+    font-weight: 100;
+    font-family: system-ui;
+    font-size: initial;
+    
+}
+.tickets h3{
+    color: #29c5c5;
+}
+.alloffers{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 96px;
+    margin-top: 53px;
+    margin-right: 42px;
+}
+.alloffers img{
+    margin-bottom: 15px;
+    width: 224px;
+    border: 6px solid white;
+}
+.offer{
+    margin-top: 186px;
+    background: #f3f3f3d4;
+    padding: 21px;
+}
+.titleoffer{
+    font-family: system-ui;
+    font-size: xx-large;
+    margin-left: 91px;
+    font-weight: 100;
+}
+.alloffers button{
+    margin-top: 20px;
+    background-color: #39a4ff;
+    color: white;
+    height: 36px;
+    border-radius: 7px;
+    width: 124px;
+    border: 3px;
+}
+#offertitle2{
+    font-family: system-ui;
+    font-weight: 100;
+}
+#offertitle2 {
+  
+    text-align: center;
+}
+.allworkers{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-around;
+    margin-left: 85px;
+    margin-right: 128px;
+}
+.workers{
+    margin-top: 93px;
+}
+.workerstitle{
+    font-family: system-ui;
+    font-size: xx-large;
+    margin-left: 99px;
+    font-weight: 100;
+}
+.allworkers img{
+    border: 1px white;
+    border-radius: 99px;
+    width: 133px;
+    margin-left: 57px;
+    margin-top: 20px;
+}
+
+.worker1,.worker2,.worker3,.worker4{
+        border: 1px solid #cbc8c8;
+    border-radius: 13px;
+    width: 254px;
+
+    height: 376px;
+}
+#workername{
+    margin-left: 80px;
+}
+#workerjop{
+    font-family: system-ui;
+    font-weight: 100;
+    font-size: small;
+}
+.aboutus{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 64px;
+    margin-top: 166px;
+    background: #f3f3f3d4;
+
+}
+.custphoto{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#abouttitle{
+    font-size: larger;
+    font-family: sans-serif;
+}
+.footer{
+    display: grid;
+    grid-template-columns: auto auto;
+    background: #e5dede;
+    padding: 52px;
+    border-bottom: 1px solid #c1bcbc;
+}
+.footer2{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 26px;
+}
+.footer11{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.footer11 img{
+    height: 59px;
+    margin-left: 80px;
+}
+.footer111{
+    margin-left: -98px;
+    margin-top: 12px;
+}
+
+.fa-solid{
+    margin-right: 14px;
+}
+.links{
+    font-family: system-ui;font-weight: 100;font-size: small;
+}
+.links2{
+    font-family: system-ui;font-weight: 100;font-size: small;
+}
+.customer{
+        font-family: system-ui;font-weight: 100;font-size: small;
+}
+.footer2{
+
+        font-family: system-ui;font-weight: 100;font-size: small;
+
+}
